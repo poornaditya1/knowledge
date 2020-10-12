@@ -1,4 +1,5 @@
 # Immunology
+Immunology is the branch of biomedical science that deals with the response of an organism to antigenic challenge and its recognition of what is self and what is not. It deals with the defence mechanisms including all physical, chemical and biological properties of the organism that help it to combat its susceptibility to foreign organisms, material, etc.
 
 ## Links
 
